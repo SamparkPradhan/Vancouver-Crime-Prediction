@@ -24,6 +24,7 @@ Flask-WTF==0.14.2
 folium==0.10.0
 future==0.18.2
 graphviz==0.10.1
+gunicorn==19.7.1
 idna==2.8
 imageio==2.6.1
 importlib-metadata==0.23
